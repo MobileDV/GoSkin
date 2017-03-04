@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "441600627683",
+    "project_id": "firebase-goskincare"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441600627683:android:f8b8106ab9d0c79b",
+        "android_client_info": {
+          "package_name": "au.com.goskincareapp.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk79O_tvSh4x8dSLoodh3q1o-RCebikhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-81702678-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441600627683:android:29620a906d78f436",
+        "android_client_info": {
+          "package_name": "au.com.goskincareapp.production"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk79O_tvSh4x8dSLoodh3q1o-RCebikhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-81702678-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

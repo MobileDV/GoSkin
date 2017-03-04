@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent_color">#00000000</color>
+    <color name="gray_dk">#2c2c2c</color>
+    <color name="tint">#ffbe9e</color>
+    <color name="cover">#60000000</color>
+    <color name="gray">#656464</color>
+    <color name="gray_lt">#d6d6d6</color>
+    <color name="gray_llt">#f5f5f5</color>
+    <color name="gray_divider">#e5e5e5</color>
+    <color name="dark_divider">#555c6f</color>
+    <color name="white_smoke">#F7F7F7</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="main_color_red">#e33124</color>
+    <color name="main_color_blue">#3b5999</color>
+    <color name="main_color_red_light">#e6a9a9</color>
+    <color name="main_color_red_dk">#c62b1f</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="green">#2ecc71</color>
+    
+    <color name="theme_black">#313031</color>
+    <drawable name="theme_black">#313031</drawable>
+    <color name="theme_red">#e74c3c</color>
+    <drawable name="theme_red">#e74c3c</drawable>
+    <color name="theme_green">#97e365</color>
+    <drawable name="theme_green">#97e365</drawable>
+    <color name="theme_blue">#41b2ec</color>
+    <drawable name="theme_blue">#41b2ec</drawable>
+    <color name="red_light">#e74c3c</color>
+    <color name="blue_sky">#33b5e5</color>
+
+
+    <!--Pcker View Part -->
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pickerview_wheelview_textcolor_center">#2a2a2a</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+    <!--Pcker View Cover -->
+    <color name="bgColor_overlay">#60000000</color>
+
+
+</resources>

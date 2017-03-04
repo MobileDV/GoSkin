@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoSkinCare</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="search">Search</string>
+    <string name="senderId">441600627683</string>
+
+    <!-- sign in and register string define-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_add">E-mail</string>
+    <string name="birthday">12/12/1990</string>
+    <string name="phone">Phone number</string>
+    <string name="address">Address</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="forgot_pwd">Forgot password?</string>
+    <string name="new_here"><u>New here? Sign Up</u></string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="refresh_token">Use Refresh Tokens</string>
+    <string name="send">Send</string>
+
+    <!-- error message string define-->
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_username">This user name is invalid</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_phone">This phone number is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+
+    <string name="error">Failure \n Please try again</string>
+
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+
+    <string-array name="arr_left_nav_list">
+        <item>Fast Order!</item>
+        <item>Magic Order!</item>
+        <item>My Profile</item>
+        <item>Order History</item>
+        <item>Terms of Use</item>
+        <item>Help</item>
+        <item>Log out</item>
+    </string-array>
+
+    <string-array name="arr_periods">
+        <item>Never</item>
+        <item>Every week</item>
+        <item>Every 2 weeks</item>
+        <item>Every 3 weeks</item>
+        <item>Every 4 weeks</item>
+        <item>Every 5 weeks</item>
+        <item>Every 6 weeks</item>
+        <item>Every 7 weeks</item>
+        <item>Every 8 weeks</item>
+    </string-array>
+
+    <string-array name="arr_Months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <string name="all_matches">All Matches</string>
+    <string name="edit">Edit</string>
+    <string name="type_msg">Type your message</string>
+    <string name="start_conv">Start a conversation</string>
+    <string name="keep_surf">Keep Surfing</string>
+    <string name="or">or</string>
+    <string name="no_one_around">There’s no one new around you!</string>
+    <string name="invite_ur_frnds">Invite Your Friends</string>
+    <string name="scan_again">Scan Again</string>
+    <string name="gen_setting">General Settings</string>
+    <string name="net_status">Network Status</string>
+    <string name="connected">Connected</string>
+    <string name="notification">Notifications</string>
+    <string name="save_gal">Save to gallery</string>
+    <string name="chat_setting">Chat Settings</string>
+    <string name="col_theme">Colour Theme</string>
+    <string name="about">About</string>
+    <string name="tell_frnd">Tell a friend</string>
+    <string name="restore_def">Restore defaults</string>
+    <string name="acc_seting">Account Settings</string>
+    <string name="lorem_ipusm">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent turpis erat, tristique at auctor non, fermentum auctor tellus. Ut nisi elit, luctus sit amet lectus egestas, trices congue lacus. Praesent ut ornare lectus. Suspen tum consequat viverra.</string>
+
+    <!-- string define-->
+    <string name="ok"> OK </string>
+    <string name="loading"> loading </string>
+    <string name="user_exit">User already exist.</string>
+    <string name="user_not_exist">User does not exit.</string>
+    <string name="need_log_in">You need to login first.</string>
+    <string name="fail_log_in">Check your email.</string>
+    <string name="user_old_problem">Need to be more than 13 years old.</string>
+
+    <!-- image picker string define-->
+    <string name="picker_title">Choose image to upload</string>
+    <string name="from_camera">Camera</string>
+    <string name="from_gallery">Gallery</string>
+    <string name="picker_cancel">Cancel</string>
+
+    <string name="photo_upload_fail">Fail to upload profile.\nPlease try again.</string>
+    <string name="photo_upload_success">Success to upload profile</string>
+    <string name="photo_over_size">Please choose less than 5M. </string>
+
+    <!--<string name="app_id">242971606057180</string>-->
+    <string name="app_id">1705362386406822</string>
+
+    <!--Picker View-->
+    <string name="pickerview_cancel">CanCel</string>
+    <string name="pickerview_submit">Done</string>
+    <string name="pickerview_year"></string>
+    <string name="pickerview_month"></string>
+    <string name="pickerview_day"></string>
+    <string name="pickerview_hours">Hour</string>
+    <string name="pickerview_minutes">Minute</string>
+    <string name="pickerview_seconds">Second</string>
+</resources>

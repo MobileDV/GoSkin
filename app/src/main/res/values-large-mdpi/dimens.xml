@@ -1,0 +1,26 @@
+<resources>
+
+    <dimen name="pad_1dp">2dp</dimen>
+    <dimen name="pad_3dp">6dp</dimen>
+	<dimen name="pad_5dp">10dp</dimen>
+	<dimen name="pad_10dp">20dp</dimen>
+	<dimen name="pad_15dp">30dp</dimen>
+	<dimen name="pad_20dp">40dp</dimen>
+	<dimen name="pad_30dp">60dp</dimen>
+	<dimen name="pad_40dp">80dp</dimen>
+	<dimen name="pad_125dp">250dp</dimen>
+	<dimen name="pad_200dp">400dp</dimen>
+	<dimen name="pad_310dp">620dp</dimen>
+	<dimen name="pad_350dp">700dp</dimen>
+	
+	<dimen name="txt_7sp">12sp</dimen>
+	<dimen name="txt_12sp">18sp</dimen>
+	<dimen name="txt_13sp">19sp</dimen>
+	<dimen name="txt_14sp">20sp</dimen>
+	<dimen name="txt_15sp">22sp</dimen>
+	<dimen name="txt_16sp">24sp</dimen>
+	<dimen name="txt_18sp">27sp</dimen>
+	<dimen name="txt_20sp">30sp</dimen>
+	<dimen name="txt_25sp">37sp</dimen>
+	<dimen name="divider">1.5dp</dimen>
+</resources>

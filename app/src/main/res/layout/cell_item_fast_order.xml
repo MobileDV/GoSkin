@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/product_fame_border"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="120dp"
+            android:id="@+id/imgvProduct"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp" />
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/imgvSpinner"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:background="@anim/spinner" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/imgvProduct"
+            android:layout_toEndOf="@+id/imgvProduct"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Exceptionoil"
+                    android:id="@+id/tvTitle"
+                    android:layout_centerVertical="true"
+                    android:textSize="18dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_toLeftOf="@+id/tvItemPrice"
+                    android:layout_toStartOf="@+id/tvItemPrice"
+                    android:layout_marginRight="20dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="$51"
+                    android:id="@+id/tvItemPrice"
+                    android:textSize="18dp"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="A gloriously scented, rapidly absorbed blend of potent skin-loving oils and butters that combine to moisturise, protect, soothe and replenish."
+                android:id="@+id/tvDescription"
+                android:textSize="14dp"
+                android:layout_marginTop="15dp" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp">
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:id="@+id/imgvMinus"
+                    android:src="@drawable/ic_minus" />
+
+                <TextView
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:id="@+id/tvNum"
+                    android:layout_alignParentTop="false"
+                    android:layout_toRightOf="@+id/imgvMinus"
+                    android:layout_toEndOf="@+id/imgvMinus"
+                    android:layout_centerVertical="true"
+                    android:gravity="center"
+                    android:textSize="18dp" />
+
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:id="@+id/imgvPlus"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/tvNum"
+                    android:layout_toEndOf="@+id/tvNum"
+                    android:src="@drawable/ic_plus" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="= $0"
+                    android:id="@+id/tvTotalPrice"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:textSize="18dp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>
